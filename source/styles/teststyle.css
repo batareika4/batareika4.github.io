@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+}
+
+.main {
+    padding: 2%;
+    background: linear-gradient(135deg, #00FF70 0%, #0000EE 100%);
+}
+
+a {
+    font-size: 1.7em;
+}
+
+.link {
+    margin: 0;
+}
+
+.slovar {
+    color: rgb(0, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+    color: red;
+    margin: 0.5em;
+    margin-top: 0;
+}
+
+.flex1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex {
+    display: flex;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.page {
+    width: 50%;
+    min-height: 7rem;
+}
+
+.slovo {
+    margin-top: 10%;
+    padding-top: 20%;
+    font-size: 2em;
+    /* font-weight:bold; */
+}
+
+.itog {
+    margin-top: 10%;
+    padding-top: 20%;
+    font-size: 2em;
+    /* font-weight:bold; */
+}
+
+.footer {
+    font-size: 3em;
+}
+
+#slovo {
+    font-size: 1.2em;
+    font-weight:bold;
+}
+
+#itog {
+    font-size: 1em;
+    font-weight:bold;
+}
+
+#input {
+    font-size: 1.5em;
+    padding: 1.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 2em;
+    margin: 5em;
+    margin-bottom: 2em;
+}
+
+.input {
+    text-align: center;
+}
+
+#button {
+    font-size: 1.5em;
+    padding: 1.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 2em;
+}
